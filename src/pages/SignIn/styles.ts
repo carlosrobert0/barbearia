@@ -35,7 +35,7 @@ export const Content = styled.div`
       border: 2px solid #232129;
       padding: 16px;
       width: 100%;
-      color: #F4EDE8;
+      color: #f4ede8;
 
       &::placeholder {
         color: #666360;
@@ -47,7 +47,7 @@ export const Content = styled.div`
     }
 
     button {
-      background: #FF9000;
+      background: #ff9000;
       height: 56px;
       border-radius: 10px;
       border: 0;
@@ -64,7 +64,7 @@ export const Content = styled.div`
     }
 
     a {
-      color: #F4EDE8;
+      color: #f4ede8;
       display: block;
       margin-top: 24px;
       text-decoration: none;
@@ -77,7 +77,7 @@ export const Content = styled.div`
   }
 
   > a {
-    color: #FF9000;
+    color: #ff9000;
     display: block;
     margin-top: 24px;
     text-decoration: none;
