@@ -1,4 +1,4 @@
-import React, { useCallback, useRef, useContext } from 'react';
+import React, { useCallback, useRef } from 'react';
 import { FiArrowLeft, FiMail, FiUser, FiLock } from 'react-icons/fi';
 import { FormHandles } from '@unform/core';
 import { Form } from '@unform/web';
@@ -77,6 +77,7 @@ const SignUp: React.FC = () => {
   return (
     <Container>
       <Background />
+
       <Content>
         <AnimationContainer>
           <img src={logoImg} alt="Logo GoBarber" />
